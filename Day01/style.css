@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    padding: 50px;
+}
+
+.git-flow{
+    display: flex;
+    height: 400px;
+    width: 100%;
+}
+
+.git-flow li:nth-child(1){
+    color: red;
+}
